@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[345],{6926:t=>{t.exports=JSON.parse('{"title":"Getting Started","slug":"/category/getting-started","permalink":"/ko/docs/category/getting-started","navigation":{"next":{"title":"Quick Setup","permalink":"/ko/docs/getting-started/quick-setup"}}}')}}]);
